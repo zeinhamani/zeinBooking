@@ -1,0 +1,7 @@
+{
+  "name": "zeinBooking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
